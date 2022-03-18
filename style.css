@@ -49,7 +49,7 @@ textarea {
 	position: relative;
 }
 
-.form-header{
+.form-header {
 	border-bottom: 1px solid #DFDFDF;
 	height: 45px;
 }
@@ -65,7 +65,6 @@ textarea {
 	height: 45px;
 	line-height: 45px;
 }
-
 .form-body{
 	padding: 30px;
 }
@@ -99,3 +98,7 @@ textarea {
 	cursor: pointer;
 }
 
+.box-input textarea{
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
